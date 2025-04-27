@@ -66,6 +66,9 @@ The primary goal is to:
 - `customer_feedback`: Feedback from the customer  
 - `quarter_number`: Quarter Number  
 
+![ER Diagram](/Users/pritamsarkar/Desktop//Users/pritamsarkar/Desktop/Screenshot 2025-04-28 at 12.04.48 AM.png)
+
+
 ---
 
 ## 🛠️ Tools Used
