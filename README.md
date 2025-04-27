@@ -64,7 +64,10 @@ The primary goal is to:
 - `credit_card_type`: Credit Card Type  
 - `credit_card_number`: Credit card number  
 - `customer_feedback`: Feedback from the customer  
-- `quarter_number`: Quarter Number  
+- `quarter_number`: Quarter Number
+
+  <img width="931" alt="Screenshot 2025-04-28 at 12 04 48 AM" src="https://github.com/user-attachments/assets/2e84d3bb-0cf0-46bc-bb53-dd0ef4f912e7" />
+
 
 
 
